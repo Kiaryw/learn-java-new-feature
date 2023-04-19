@@ -1,4 +1,4 @@
-# Functional Interface 函数式接口
+# Functional Functional Interface 函数式接口
 
 定义：也称 SAM 接口，即 Single Abstract Method interfaces，有且只有一个抽象方法，但可以有多个非抽象方法的接口。
 
